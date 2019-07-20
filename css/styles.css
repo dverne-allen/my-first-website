@@ -1,0 +1,28 @@
+.site-header {
+    background: #292929;
+    color: #ffffff;
+    padding: 10px 20px;
+}
+
+.jobs-header {
+    background: red;
+}
+
+.header-links {
+    color: #fff;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.nav {
+    display: inline-block;
+    float: right;
+    padding: 15px 0;
+}
+
+.nav-list li {
+    display: inline-block;
+    padding: 0 10px;
+}
